@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/901w4o4.png"/></img>
+    <img src="logos/RandomUsernamesLogo.png"/></img>
     <br>
     <p align="center">Fast, advanced, customizable username framework for <a href="http://nodejs.org">Node</a></p>
 </p>
