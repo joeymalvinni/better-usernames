@@ -35,7 +35,7 @@ let wordsFolder;
 wordsFolder = fs.readdirSync(__dirname + '/data')
 
 for(let i = 0; i < wordsFolder.length; i++){
-    words[wordsFolder[i].slice(0, -5).split('_').join(' ')] = JSON.parse(fs.readFileSync(__dirname + '\\data\\' + wordsFolder[i]).toString());
+    words[wordsFolder[i].slice(0, -5).split('_').join(' ')] = JSON.parse(fs.readFileSync(__dirname + '/data/' + wordsFolder[i]).toString());
     wordCategories.push(wordsFolder[i].slice(0, -5).split('_').join(' '));
 };
 
