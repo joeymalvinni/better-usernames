@@ -1,0 +1,35 @@
+{
+  "name": "random-usernames",
+  "version": "1.0.0",
+  "description": "An advanced, fast, and customizable username framework for Node.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeymalvinni/random-usernames.git"
+  },
+  "keywords": [
+    "username",
+    "generator",
+    "username-generator",
+    "random-usernames",
+    "usernames",
+    "advanced",
+    "usernames"
+  ],
+  "author": "Joey Malvinni",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/joeymalvinni/random-usernames/issues"
+  },
+  "homepage": "https://github.com/joeymalvinni/random-usernames#readme",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
