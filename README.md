@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="logos/RandomUsernamesLogo.png"/></img>
+    <img src="https://i.imgur.com/901w4o4.png"/></img>
     <br>
-    <p align="center">Fast, advanced, customizable username framework for <a href="http://nodejs.org">Node</a></p>
+    <p align="center">A fast, advanced, and customizable username framework for <a href="http://nodejs.org">Node.js</a></p>
 </p>
 <p align="center">
   <a href="https://travis-ci.com/joeymalvinni/random-usernames">
@@ -9,6 +9,15 @@
   </a>
   <a href="https://opensource.org/licenses/Apache-2.0">
 	<img alt="Apache 2.0 License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  </a>
+  <a href="https://github.com/joeymalvinni/random-usernames/contributors/">
+	<img alt="Github contributors" src="https://img.shields.io/github/contributors/joeymalvinni/random-usernames.svg">
+  </a>
+  <a href="https://snyk.io/test/github/joeymalvinni/random-usernames/">
+	<img alt="Snyk vulnerabilities" src="https://snyk.io/test/github/joeymalvinni/random-usernames/badge.svg?targetFile=package.json">
+  </a>
+  <a href="https://github.com/joeymalvinni/random-usernames/pulls">
+	<img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
 </p>
 
@@ -95,7 +104,7 @@ $ npm test
 
 ## Authors
 
-The author of Random Usernames is [Joey Malvinni](https://github.com/joeymalvinni)
+The author of random-usernames is [Joey Malvinni](https://github.com/joeymalvinni)
 
 [List of all contributors](https://github.com/joeymalvinni/random-usernames/graphs/contributors)
 
