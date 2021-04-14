@@ -19,6 +19,15 @@
   <a href="https://github.com/joeymalvinni/random-usernames/pulls">
 	  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
+  <a href="https://github.com/joeymalvinni/random-usernames/contributors/">
+	<img alt="Github contributors" src="https://img.shields.io/github/contributors/joeymalvinni/random-usernames.svg">
+  </a>
+  <a href="https://snyk.io/test/github/joeymalvinni/random-usernames/">
+	<img alt="Snyk vulnerabilities" src="https://snyk.io/test/github/joeymalvinni/random-usernames/badge.svg?targetFile=package.json">
+  </a>
+  <a href="https://github.com/joeymalvinni/random-usernames/pulls">
+	<img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
+  </a>
 </p>
 
 <br>
@@ -110,4 +119,8 @@ The author of random-usernames is [Joey Malvinni](https://github.com/joeymalvinn
 
 ## License
 
+<<<<<<< HEAD
   [Apache 2.0](LICENSE)
+=======
+  [Apache 2.0](LICENSE)
+>>>>>>> 5b8c6e513f0e4a6573761bf6b8859fcb1dd6657c
