@@ -26,7 +26,7 @@
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+[npm registry](https://www.npmjs.com/package/better-usernames).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 0.10 or higher is required.
@@ -38,7 +38,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install random-usernames
+$ npm install better-usernames
 ```
 
 ## Features
@@ -56,7 +56,7 @@ $ npm install random-usernames
   Install the executable:
 
 ```bash
-$ npm install -g random-usernames
+$ npm install -g better-usernames
 ```
 
   Make an `index.js` file and give it the following contents:
