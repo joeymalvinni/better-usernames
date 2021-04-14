@@ -1,5 +1,5 @@
 {
-  "name": "random-usernames",
+  "name": "better-usernames",
   "version": "1.0.0",
   "description": "An advanced, fast, and customizable username framework for Node.",
   "main": "index.js",
@@ -20,7 +20,10 @@
     "random-usernames",
     "usernames",
     "advanced",
-    "usernames"
+    "usernames",
+    "better-usernames",
+    "cool-usernames",
+    "cool"
   ],
   "author": "Joey Malvinni",
   "license": "Apache-2.0",

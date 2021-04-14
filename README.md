@@ -1,14 +1,23 @@
 <p align="center">
-    <img src="logos/RandomUsernamesLogo.png"/></img>
+    <img src="https://i.imgur.com/901w4o4.png"/></img>
     <br>
-    <p align="center">Fast, advanced, customizable username framework for <a href="http://nodejs.org">Node</a></p>
+    <p align="center">A fast, advanced, and customizable username framework for <a href="http://nodejs.org">Node.js</a></p>
 </p>
 <p align="center">
   <a href="https://travis-ci.com/joeymalvinni/random-usernames">
     <img alt="Build Status" src="https://travis-ci.com/joeymalvinni/random-usernames.svg?branch=main">
   </a>
   <a href="https://opensource.org/licenses/Apache-2.0">
-	<img alt="Apache 2.0 License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+	  <img alt="Apache 2.0 License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  </a>
+  <a href="https://github.com/joeymalvinni/random-usernames/contributors/">
+	  <img alt="Github contributors" src="https://img.shields.io/github/contributors/joeymalvinni/random-usernames.svg">
+  </a>
+  <a href="https://snyk.io/test/github/joeymalvinni/random-usernames/">
+	  <img alt="Snyk vulnerabilities" src="https://snyk.io/test/github/joeymalvinni/random-usernames/badge.svg?targetFile=package.json">
+  </a>
+  <a href="https://github.com/joeymalvinni/random-usernames/pulls">
+	  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
 </p>
 
@@ -17,7 +26,7 @@
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+[npm registry](https://www.npmjs.com/package/better-usernames).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 0.10 or higher is required.
@@ -29,7 +38,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install random-usernames
+$ npm install better-usernames
 ```
 
 ## Features
@@ -47,13 +56,13 @@ $ npm install random-usernames
   Install the executable:
 
 ```bash
-$ npm install -g random-usernames
+$ npm install -g better-usernames
 ```
 
   Make an `index.js` file and give it the following contents:
   
 ```js
-const generateUsername = require('random-usernames');
+const generateUsername = require('better-usernames');
 
 console.log(generateUsername());
 ```
@@ -95,23 +104,10 @@ $ npm test
 
 ## Authors
 
-The author of Express is [Joey Malvinni](https://github.com/joeymalvinni)
+The author of random-usernames is [Joey Malvinni](https://github.com/joeymalvinni)
 
 [List of all contributors](https://github.com/joeymalvinni/random-usernames/graphs/contributors)
 
 ## License
 
-  [MIT](LICENSE)
-  
-
-
-[npm-image]: https://img.shields.io/npm/v/express.svg
-[npm-url]: https://npmjs.org/package/express
-[downloads-image]: https://img.shields.io/npm/dm/express.svg
-[downloads-url]: https://npmcharts.com/compare/express?minimal=true
-[travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=linux
-[travis-url]: https://travis-ci.org/expressjs/express
-[appveyor-image]: https://img.shields.io/appveyor/ci/dougwilson/express/master.svg?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
-[coveralls-image]: https://img.shields.io/coveralls/expressjs/express/master.svg
-[coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
+  [Apache 2.0](LICENSE)
