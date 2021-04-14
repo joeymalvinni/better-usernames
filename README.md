@@ -62,7 +62,7 @@ $ npm install -g better-usernames
   Make an `index.js` file and give it the following contents:
   
 ```js
-const generateUsername = require('random-usernames');
+const generateUsername = require('better-usernames');
 
 console.log(generateUsername());
 ```
