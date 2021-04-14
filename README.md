@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://i.imgur.com/901w4o4.png"/></img>
+    <img src="https://raw.githubusercontent.com/joeymalvinni/better-usernames/main/logos/better-usernames-v3.svg"/></img>
     <br>
-    <p align="center">A fast, advanced, and customizable username framework for <a href="http://nodejs.org">Node.js</a></p>
 </p>
 <p align="center">
   <a href="https://travis-ci.com/joeymalvinni/random-usernames">
