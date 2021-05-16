@@ -117,9 +117,4 @@ The author of random-usernames is [Joey Malvinni](https://github.com/joeymalvinn
 [List of all contributors](https://github.com/joeymalvinni/random-usernames/graphs/contributors)
 
 ## License
-
-<<<<<<< HEAD
   [Apache 2.0](LICENSE)
-=======
-  [Apache 2.0](LICENSE)
->>>>>>> 5b8c6e513f0e4a6573761bf6b8859fcb1dd6657c
