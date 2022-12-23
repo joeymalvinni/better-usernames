@@ -18,15 +18,6 @@
   <a href="https://github.com/joeymalvinni/random-usernames/pulls">
 	  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
-  <a href="https://github.com/joeymalvinni/random-usernames/contributors/">
-	<img alt="Github contributors" src="https://img.shields.io/github/contributors/joeymalvinni/random-usernames.svg">
-  </a>
-  <a href="https://snyk.io/test/github/joeymalvinni/random-usernames/">
-	<img alt="Snyk vulnerabilities" src="https://snyk.io/test/github/joeymalvinni/random-usernames/badge.svg?targetFile=package.json">
-  </a>
-  <a href="https://github.com/joeymalvinni/random-usernames/pulls">
-	<img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-  </a>
 </p>
 
 <br>
